@@ -4,9 +4,13 @@
 This project based on the Spring Boot project and used packages:
 
 -Spring Boot
+
 -Spring Data
+
 -Spring Security
+
 -Maven
+
 -H2 in-memory database
 
 
