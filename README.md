@@ -17,6 +17,7 @@ This project based on the Spring Boot project and used packages:
 Access in-memory database :http://localhost:8082/h2_console
 
 user: admin
+
 password: password
     
 
@@ -37,6 +38,7 @@ Application runs from localhost:8082/api/products
 Basic authentication is in placed to access the service and swagger ui.
 
 user: username
+
 password: password
 
 Swagger UI URL: http://localhost:8082/swagger-ui.html#/
